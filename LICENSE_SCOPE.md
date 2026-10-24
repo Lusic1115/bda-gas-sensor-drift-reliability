@@ -14,4 +14,4 @@ Raw datasets, the supplied extraction notebook and the reconstructed 700-row tab
 
 Copyright in the original code/documentation is stated as 2026 Yexin Xie following project provenance. This is not inferred from the paper byline. Repository citation authors remain Yexin Xie and Qiuyu Zhou. No broader ownership or individual contribution is inferred from that citation list.
 
-Software version: 1.0.0. Repository: https://github.com/Lusic1115/bda-gas-sensor-drift-reliability. No Git tag or archive DOI is claimed.
+Software version: 1.0.0. Repository: https://github.com/Lusic1115/bda-gas-sensor-drift-reliability. Software release v1.0.0 is archived at https://doi.org/10.5281/zenodo.23610757; this metadata update does not change the license scope.

@@ -1,9 +1,9 @@
 {
   "prepared_version": "v1.0.0",
-  "status": "Software version 1.0.0",
+  "status": "Software release v1.0.0 archived on Zenodo",
   "repository_created": true,
-  "git_tag_created": false,
-  "archive_doi_assigned": false,
+  "git_tag_created": true,
+  "archive_doi_assigned": true,
   "software_license": "MIT",
   "software_scope": "Original source code and original documentation contained in this repository, unless otherwise noted.",
   "copyright_holder": "Yexin Xie",
@@ -12,5 +12,8 @@
   "external_notebook_included": false,
   "derived_700_table_included": false,
   "third_party_terms": "Retained separately; see THIRD_PARTY_NOTICES.md and manifests/license_scope.csv",
-  "repository_url": "https://github.com/Lusic1115/bda-gas-sensor-drift-reliability"
+  "repository_url": "https://github.com/Lusic1115/bda-gas-sensor-drift-reliability",
+  "archive_doi": "10.5281/zenodo.23610757",
+  "release_tag": "v1.0.0",
+  "frozen_release_commit": "861110d74d5f183c1fc39db136010cd0c7439da8"
 }

@@ -3,6 +3,7 @@ type: software
 title: "How Reliable Is Balanced Distribution Adaptation for Gas Sensor Drift? A Strict Label-Free Evaluation Across Two Long-Term Benchmarks"
 message: "If you use this software, please cite this repository. MIT covers original source code/documentation only; see LICENSE_SCOPE.md. Correspondence contact: 108122023045@student.fjnu.edu.cn."
 version: 1.0.0
+doi: 10.5281/zenodo.23610757
 license: MIT
 repository-code: "https://github.com/Lusic1115/bda-gas-sensor-drift-reliability"
 authors:
