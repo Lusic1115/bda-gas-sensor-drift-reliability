@@ -84,6 +84,9 @@ src/external_reconstruction.py,YES,NO,Original project source/fixture code or in
 src/release_pipeline.py,YES,NO,Original project source/fixture code or independent reimplementation; no third-party function body bundled. Runtime dependencies and user-supplied notebook are excluded.
 src/release_selectors.py,YES,NO,Original project source/fixture code or independent reimplementation; no third-party function body bundled. Runtime dependencies and user-supplied notebook are excluded.
 src/source_only_1nn.py,YES,NO,Original project source/fixture code or independent reimplementation; no third-party function body bundled. Runtime dependencies and user-supplied notebook are excluded.
+submission/AUTHOR_CONTRIBUTIONS.md,NO,NO,Scholarly submission material; outside the software/source documentation MIT grant. No new license is assigned.
+submission/COVER_LETTER.md,NO,NO,Scholarly submission material; outside the software/source documentation MIT grant. No new license is assigned.
+submission/manuscript_v1.0.md,NO,NO,Scholarly submission material; outside the software/source documentation MIT grant. No new license is assigned.
 tests/test_canonical_release.py,YES,NO,Original project source/fixture code or independent reimplementation; no third-party function body bundled. Runtime dependencies and user-supplied notebook are excluded.
 tests/test_frozen_assets.py,YES,NO,Original project source/fixture code or independent reimplementation; no third-party function body bundled. Runtime dependencies and user-supplied notebook are excluded.
 tests/test_reconstruction_release.py,YES,NO,Original project source/fixture code or independent reimplementation; no third-party function body bundled. Runtime dependencies and user-supplied notebook are excluded.
