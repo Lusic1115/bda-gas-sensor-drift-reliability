@@ -1,0 +1,570 @@
+{
+  "prediction_vectors_included": false,
+  "entries": [
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/prediction_freeze.json",
+      "prediction_artifact": "ensemble_predictions_batch2.csv",
+      "sha256": "5839f3caa095eb05d9d7ab339206f0ee2c9c2ec37c94d05e5266273894ed18bd"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/prediction_freeze.json",
+      "prediction_artifact": "ensemble_predictions_batch3.csv",
+      "sha256": "d8de03528871c3a6e768825156ab41e1ddfc21fb5749d8ebfdf1baf3c76b80a0"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/prediction_freeze.json",
+      "prediction_artifact": "ensemble_predictions_batch4.csv",
+      "sha256": "13fdbc53dd9c5ba7d6176d73ef46e1b5c1779082248834996374fdaf0d811bb4"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/prediction_freeze.json",
+      "prediction_artifact": "ensemble_predictions_batch5.csv",
+      "sha256": "1d9555e50f1dd9eec807d89461aeb45f15e325966d868d939d55c7c34c38e423"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/prediction_freeze.json",
+      "prediction_artifact": "ensemble_predictions_batch6.csv",
+      "sha256": "1cce6b3ff4f4d50cdaf6039edc9585857150994f2d0b9bea9101fb3b820505b1"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/prediction_freeze.json",
+      "prediction_artifact": "ensemble_predictions_batch7.csv",
+      "sha256": "c60317a3d04e6950b7e042e61b2f0b84fab9fa46920e47867f0d35a17b3a8026"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/prediction_freeze.json",
+      "prediction_artifact": "ensemble_predictions_batch8.csv",
+      "sha256": "7ed3960e071053fbba2966aadb77c644ead7de4bfc1106e5d23489674f53e30e"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/prediction_freeze.json",
+      "prediction_artifact": "ensemble_predictions_batch9.csv",
+      "sha256": "60a7675e82bc5716d97864a72246b489dc94e8370a5684f136037a08f8e1a845"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/prediction_freeze.json",
+      "prediction_artifact": "ensemble_predictions_batch10.csv",
+      "sha256": "b5a41bb299e302104cc38fc58789ee9cbd41099b08bd0e5bc5aa998436c800d7"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/prediction_freeze.json",
+      "prediction_artifact": "ensemble_predictions.csv",
+      "sha256": "1446dcdf0f05f8965e7350132016bf5d845e9cbb91b4c18ebbae4e0ed496185f"
+    },
+    {
+      "source_artifact": "results/d015_external_canonical_validation_2026-10-23/prediction_freeze.json",
+      "prediction_artifact": "source_only_svm_predictions.csv",
+      "sha256": "a4debc13c494917a0977e8aba04ac86188d5301f26ee5f2accc1941791bc9e01"
+    },
+    {
+      "source_artifact": "results/d015_external_canonical_validation_2026-10-23/prediction_freeze.json",
+      "prediction_artifact": "ensemble_predictions.csv",
+      "sha256": "c4c958926a247f23ea7a6a39c72f98dbf4fe0b0fdd58ecc1c52ccb6eeb92cc3b"
+    },
+    {
+      "source_artifact": "results/d015_external_canonical_validation_2026-10-23/prediction_freeze.json",
+      "prediction_artifact": "bda_predictions.csv",
+      "sha256": "b772086da6702dfdd591f52a887b6524ddc23ded4684e03c3ba59fe7ebf3a1cb"
+    },
+    {
+      "source_artifact": "results/d015_external_canonical_validation_2026-10-23/prediction_freeze.json",
+      "prediction_artifact": "source_only_1nn_predictions.csv",
+      "sha256": "33d0ed14528af609b40447b30e6a5361ea03e0e77d3153fa6fb2ff63849d1c70"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/canonical_prediction_inputs.json",
+      "prediction_artifact": "results/bda_v1_1_paper_init_2026-10-22/predictions/batch2_mu0.0/predictions.csv",
+      "sha256": "312bbc9396f9f3d37f94ded4384085b7a474adab3347c332c16d155c6ce7da4d"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/canonical_prediction_inputs.json",
+      "prediction_artifact": "results/bda_v1_1_paper_init_2026-10-22/predictions/batch2_mu0.1/predictions.csv",
+      "sha256": "1d8256add28d6a2f1797acad627cec5669abc0ecf0af71531dfd5f4b4721b54f"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/canonical_prediction_inputs.json",
+      "prediction_artifact": "results/bda_v1_1_paper_init_2026-10-22/predictions/batch2_mu0.2/predictions.csv",
+      "sha256": "bdc5ec8ec881a53ae3241c34b5113517590e9177d41b060402eea816271749f4"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/canonical_prediction_inputs.json",
+      "prediction_artifact": "results/bda_v1_1_paper_init_2026-10-22/predictions/batch2_mu0.3/predictions.csv",
+      "sha256": "95014a64f7f711531b15a1151aceeec73471bb7fae08037d05177f0815a70a69"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/canonical_prediction_inputs.json",
+      "prediction_artifact": "results/bda_v1_1_paper_init_2026-10-22/predictions/batch2_mu0.4/predictions.csv",
+      "sha256": "e58b6be723c3d8d98b0cfb6a8360d49b7887beb8cdc64996495ae0908571374c"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/canonical_prediction_inputs.json",
+      "prediction_artifact": "results/bda_v1_1_paper_init_2026-10-22/predictions/batch2_mu0.5/predictions.csv",
+      "sha256": "449fd9ff35a019929c68c365652efe309752d0481075597d6e6141b3a963c9bd"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/canonical_prediction_inputs.json",
+      "prediction_artifact": "results/bda_v1_1_paper_init_2026-10-22/predictions/batch2_mu0.6/predictions.csv",
+      "sha256": "59e34a0a96670e45d3fd6b1179d331ac5f2377e1a191ce1c5e7f62a0bf44fe66"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/canonical_prediction_inputs.json",
+      "prediction_artifact": "results/bda_v1_1_paper_init_2026-10-22/predictions/batch2_mu0.7/predictions.csv",
+      "sha256": "aa32cf3f0d69eff387fee69421cf3d83f08e11da3ae6f5683b1a03d7c1d82514"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/canonical_prediction_inputs.json",
+      "prediction_artifact": "results/bda_v1_1_paper_init_2026-10-22/predictions/batch2_mu0.8/predictions.csv",
+      "sha256": "4bebc5d713c39278e6b19fc7dd77c7f6fc4b6e1414e1c7dcea9a7f36ccd57635"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/canonical_prediction_inputs.json",
+      "prediction_artifact": "results/bda_v1_1_paper_init_2026-10-22/predictions/batch2_mu0.9/predictions.csv",
+      "sha256": "9ce7ae6729df58c72c00cc50cea8b9ea3e5d8e2eef66710e092038ec6690ecef"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/canonical_prediction_inputs.json",
+      "prediction_artifact": "results/bda_v1_1_paper_init_2026-10-22/predictions/batch2_mu1.0/predictions.csv",
+      "sha256": "1a8b8510f6c6decefc3098fc5c5448a16bf45aed77486bc1ed26cf88e0cc4bce"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/canonical_prediction_inputs.json",
+      "prediction_artifact": "results/bda_v1_1_paper_init_2026-10-22/predictions/batch3_mu0.0/predictions.csv",
+      "sha256": "96b91b1e10ea048ee0e084fc99e50bc60e899f6c6d2231e45edab684a14c5eae"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/canonical_prediction_inputs.json",
+      "prediction_artifact": "results/bda_v1_1_paper_init_2026-10-22/predictions/batch3_mu0.1/predictions.csv",
+      "sha256": "ed74aaa5ed27ce23b310ad9808afe64c38584d0f5cdc3e5972ebd975fe013de3"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/canonical_prediction_inputs.json",
+      "prediction_artifact": "results/bda_v1_1_paper_init_2026-10-22/predictions/batch3_mu0.2/predictions.csv",
+      "sha256": "dffc83f76ee2a22923066024a448553d9ff94cc5766b2af87b38b161d612b56e"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/canonical_prediction_inputs.json",
+      "prediction_artifact": "results/bda_v1_1_paper_init_2026-10-22/predictions/batch3_mu0.3/predictions.csv",
+      "sha256": "67113630d0535d402da48f2ab71c3abe16c33359d4fcc6e276a66c81108bad7c"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/canonical_prediction_inputs.json",
+      "prediction_artifact": "results/bda_v1_1_paper_init_2026-10-22/predictions/batch3_mu0.4/predictions.csv",
+      "sha256": "9afaf59efa5644bb68eae24fb4ad14095107ff75708fe4ebb49e0ae0ffee519d"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/canonical_prediction_inputs.json",
+      "prediction_artifact": "results/bda_v1_1_paper_init_2026-10-22/predictions/batch3_mu0.5/predictions.csv",
+      "sha256": "7fa2cfca818e306527aa62e7cea64de5880e9dd1adc34f1e3b238399bde1c749"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/canonical_prediction_inputs.json",
+      "prediction_artifact": "results/bda_v1_1_paper_init_2026-10-22/predictions/batch3_mu0.6/predictions.csv",
+      "sha256": "90ff259d19e507cbe727b2a42619cf1a3a9fe02f4aaef51e749f59e987ecde84"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/canonical_prediction_inputs.json",
+      "prediction_artifact": "results/bda_v1_1_paper_init_2026-10-22/predictions/batch3_mu0.7/predictions.csv",
+      "sha256": "80e14b5c5f45ac06d2b30162f52e9b090371da68404270d0209b2db74c639406"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/canonical_prediction_inputs.json",
+      "prediction_artifact": "results/bda_v1_1_paper_init_2026-10-22/predictions/batch3_mu0.8/predictions.csv",
+      "sha256": "932ecbcd6c168d8605c3e7a7e3dea89419f869f108db94cdad50a1d1e126b683"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/canonical_prediction_inputs.json",
+      "prediction_artifact": "results/bda_v1_1_paper_init_2026-10-22/predictions/batch3_mu0.9/predictions.csv",
+      "sha256": "098b2575a66d5bcaea0f293293c4b4873ce0a50a0300c819a6ecf3cd08e47ec8"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/canonical_prediction_inputs.json",
+      "prediction_artifact": "results/bda_v1_1_paper_init_2026-10-22/predictions/batch3_mu1.0/predictions.csv",
+      "sha256": "8804458df6f5c9d1702fe019ee9ae129803e3c4e4a1905bd0d08e21b8ed435dc"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/canonical_prediction_inputs.json",
+      "prediction_artifact": "results/bda_v1_1_paper_init_2026-10-22/predictions/batch4_mu0.0/predictions.csv",
+      "sha256": "9035e80efa363d19d0085e4c0a28a8ec0b48f8251a9169a5cf22b8d4ffd8d957"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/canonical_prediction_inputs.json",
+      "prediction_artifact": "results/bda_v1_1_paper_init_2026-10-22/predictions/batch4_mu0.1/predictions.csv",
+      "sha256": "0554adc5c27a29f1cd6d6fc3059738f6b3c220671f3d43675a86543de6539e31"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/canonical_prediction_inputs.json",
+      "prediction_artifact": "results/bda_v1_1_paper_init_2026-10-22/predictions/batch4_mu0.2/predictions.csv",
+      "sha256": "5114a37bf71e3e399eede6fa4a22e028a8725729032d35b31e638d8a8bcd6a22"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/canonical_prediction_inputs.json",
+      "prediction_artifact": "results/bda_v1_1_paper_init_2026-10-22/predictions/batch4_mu0.3/predictions.csv",
+      "sha256": "b57259ce53f2ef8a028fd4fbba368823d7d40e4fde6083168ded499ca7b233a9"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/canonical_prediction_inputs.json",
+      "prediction_artifact": "results/bda_v1_1_paper_init_2026-10-22/predictions/batch4_mu0.4/predictions.csv",
+      "sha256": "5114a37bf71e3e399eede6fa4a22e028a8725729032d35b31e638d8a8bcd6a22"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/canonical_prediction_inputs.json",
+      "prediction_artifact": "results/bda_v1_1_paper_init_2026-10-22/predictions/batch4_mu0.5/predictions.csv",
+      "sha256": "336c942da199189a3edcafbc73e48a61c1c69cb5c685f0fe0a2622024e7a8a69"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/canonical_prediction_inputs.json",
+      "prediction_artifact": "results/bda_v1_1_paper_init_2026-10-22/predictions/batch4_mu0.6/predictions.csv",
+      "sha256": "188f82b785fed809dcb2ea7388ec20e78b4689d1e4cbebaead500328f30bc512"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/canonical_prediction_inputs.json",
+      "prediction_artifact": "results/bda_v1_1_paper_init_2026-10-22/predictions/batch4_mu0.7/predictions.csv",
+      "sha256": "59e85e7927883499daea7d86f19fbf76f95b64426f475ead698cd9f9857a580a"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/canonical_prediction_inputs.json",
+      "prediction_artifact": "results/bda_v1_1_paper_init_2026-10-22/predictions/batch4_mu0.8/predictions.csv",
+      "sha256": "545e5e7347d14c24f352f22a8d71572a910e55f064506c8fd9ea3d694b3f839b"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/canonical_prediction_inputs.json",
+      "prediction_artifact": "results/bda_v1_1_paper_init_2026-10-22/predictions/batch4_mu0.9/predictions.csv",
+      "sha256": "24e4966f0b5bc66a8ffc358c358206c2efecca935a8d1c9580b9c21d3b68a45b"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/canonical_prediction_inputs.json",
+      "prediction_artifact": "results/bda_v1_1_paper_init_2026-10-22/predictions/batch4_mu1.0/predictions.csv",
+      "sha256": "24e4966f0b5bc66a8ffc358c358206c2efecca935a8d1c9580b9c21d3b68a45b"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/canonical_prediction_inputs.json",
+      "prediction_artifact": "results/bda_v1_1_paper_init_2026-10-22/predictions/batch5_mu0.0/predictions.csv",
+      "sha256": "37079f35c3d6db8d4222ce9e821b90bda2174314ca09cee3616f0a98c79d5e0e"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/canonical_prediction_inputs.json",
+      "prediction_artifact": "results/bda_v1_1_paper_init_2026-10-22/predictions/batch5_mu0.1/predictions.csv",
+      "sha256": "587ba6f688fa6cc84f7fd25c0e85f45c1241d71522e91a06072edc1317d2fe16"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/canonical_prediction_inputs.json",
+      "prediction_artifact": "results/bda_v1_1_paper_init_2026-10-22/predictions/batch5_mu0.2/predictions.csv",
+      "sha256": "57530bfc7e405afddf2dcf26b3f58e6f464d44d520b50dbff987a5d92c732d4e"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/canonical_prediction_inputs.json",
+      "prediction_artifact": "results/bda_v1_1_paper_init_2026-10-22/predictions/batch5_mu0.3/predictions.csv",
+      "sha256": "a4befd6d0c87f524a0f636e05f66eac732b902e3a0a845fd26336a84174b41da"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/canonical_prediction_inputs.json",
+      "prediction_artifact": "results/bda_v1_1_paper_init_2026-10-22/predictions/batch5_mu0.4/predictions.csv",
+      "sha256": "28f784ae73e411b2583c3eef9471368bbc8e6e8db219f9ea3663b418244b1b71"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/canonical_prediction_inputs.json",
+      "prediction_artifact": "results/bda_v1_1_paper_init_2026-10-22/predictions/batch5_mu0.5/predictions.csv",
+      "sha256": "fd33487c3bf453491ef2c0525bfff880de8f6eb0f5a835594d6b0c1f8c6b2af7"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/canonical_prediction_inputs.json",
+      "prediction_artifact": "results/bda_v1_1_paper_init_2026-10-22/predictions/batch5_mu0.6/predictions.csv",
+      "sha256": "babed23ff479ce278d5a54e1690ea0f727dee18fdcd794d3dd6760df4de6c9dc"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/canonical_prediction_inputs.json",
+      "prediction_artifact": "results/bda_v1_1_paper_init_2026-10-22/predictions/batch5_mu0.7/predictions.csv",
+      "sha256": "afc9fa86bddd152306a051fc2934bc8e82596fddcf2fd3c5ee175b560ab940c0"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/canonical_prediction_inputs.json",
+      "prediction_artifact": "results/bda_v1_1_paper_init_2026-10-22/predictions/batch5_mu0.8/predictions.csv",
+      "sha256": "bd82fb37483b53bc110c57dee3b12a7b115cbf74759a75a5b3ffa1cdb181e49e"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/canonical_prediction_inputs.json",
+      "prediction_artifact": "results/bda_v1_1_paper_init_2026-10-22/predictions/batch5_mu0.9/predictions.csv",
+      "sha256": "b2a33519374d191125888ef55950b17a2a8f9e0f507bbc3ae493530a12db7b3e"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/canonical_prediction_inputs.json",
+      "prediction_artifact": "results/bda_v1_1_paper_init_2026-10-22/predictions/batch5_mu1.0/predictions.csv",
+      "sha256": "35063e6abf5b3ead2f2b6ad8d58c69ef4f9abacb9c6370f4ccc99de1affef301"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/canonical_prediction_inputs.json",
+      "prediction_artifact": "results/bda_v1_1_paper_init_2026-10-22/predictions/batch6_mu0.0/predictions.csv",
+      "sha256": "0c7f444141b0ee78c917c9f6e62a6f92bfd8415c8ba538eb89a8f7aaf759d8ae"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/canonical_prediction_inputs.json",
+      "prediction_artifact": "results/bda_v1_1_paper_init_2026-10-22/predictions/batch6_mu0.1/predictions.csv",
+      "sha256": "51d6ba672b15af3f4b64c5781487be9ed6931af7c302e88c99bc72c189fb49ce"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/canonical_prediction_inputs.json",
+      "prediction_artifact": "results/bda_v1_1_paper_init_2026-10-22/predictions/batch6_mu0.2/predictions.csv",
+      "sha256": "319fa8bb8167d470b5d928b75fc7d1a63fd3184fc82c57a7336fc37dff7600df"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/canonical_prediction_inputs.json",
+      "prediction_artifact": "results/bda_v1_1_paper_init_2026-10-22/predictions/batch6_mu0.3/predictions.csv",
+      "sha256": "6a8f8e0e07358bee5958ebf6de86887653a241d1431f25a753f2149d429ac4d2"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/canonical_prediction_inputs.json",
+      "prediction_artifact": "results/bda_v1_1_paper_init_2026-10-22/predictions/batch6_mu0.4/predictions.csv",
+      "sha256": "f39b79edc7f792e35ade6be4c76c51b84526f4571174b3ffacdb97011b2384b4"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/canonical_prediction_inputs.json",
+      "prediction_artifact": "results/bda_v1_1_paper_init_2026-10-22/predictions/batch6_mu0.5/predictions.csv",
+      "sha256": "ad9e6e4b766eaa93a46c54d02de5562a80382c1ab5ea41e7aa2500ae72fb524e"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/canonical_prediction_inputs.json",
+      "prediction_artifact": "results/bda_v1_1_paper_init_2026-10-22/predictions/batch6_mu0.6/predictions.csv",
+      "sha256": "76e25229bfbb5d2f1037df92af12be59f08d64e398bdbc5cf8f21857aca34d34"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/canonical_prediction_inputs.json",
+      "prediction_artifact": "results/bda_v1_1_paper_init_2026-10-22/predictions/batch6_mu0.7/predictions.csv",
+      "sha256": "446c288b029e75242ad4865b3e36acc02809abec1e81e15cf07c1ff74b6db3e6"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/canonical_prediction_inputs.json",
+      "prediction_artifact": "results/bda_v1_1_paper_init_2026-10-22/predictions/batch6_mu0.8/predictions.csv",
+      "sha256": "5e10a1ccd8abd18307a769f86ad738a8f53b2c5ec0bc8f4131c56b2fd0f9e905"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/canonical_prediction_inputs.json",
+      "prediction_artifact": "results/bda_v1_1_paper_init_2026-10-22/predictions/batch6_mu0.9/predictions.csv",
+      "sha256": "2fb046b2587bb33fd66c7d71866eb81e314ef33c5da4b2607d91d3651e59d21e"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/canonical_prediction_inputs.json",
+      "prediction_artifact": "results/bda_v1_1_paper_init_2026-10-22/predictions/batch6_mu1.0/predictions.csv",
+      "sha256": "621f4e67cfaa355f2ceb07f59f59a59d1f03af91b25043e03ed61525dda9f68c"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/canonical_prediction_inputs.json",
+      "prediction_artifact": "results/bda_v1_1_paper_init_2026-10-22/predictions/batch7_mu0.0/predictions.csv",
+      "sha256": "bbc14309b9a8a317e1f0f18d3987e146286ccd053c96c7b3dc0972d13bdc2bdb"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/canonical_prediction_inputs.json",
+      "prediction_artifact": "results/bda_v1_1_paper_init_2026-10-22/predictions/batch7_mu0.1/predictions.csv",
+      "sha256": "66414f288adac4e7fb1b7a423350e8a10e4a6f9438b9972466cc754b9806e7d2"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/canonical_prediction_inputs.json",
+      "prediction_artifact": "results/bda_v1_1_paper_init_2026-10-22/predictions/batch7_mu0.2/predictions.csv",
+      "sha256": "5bd132a586a06c1af2b4ed8928f83f8dec848b32b65e305b858c5c0600821aba"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/canonical_prediction_inputs.json",
+      "prediction_artifact": "results/bda_v1_1_paper_init_2026-10-22/predictions/batch7_mu0.3/predictions.csv",
+      "sha256": "e5f2666e250c5b77c02507b18192f75d4ac16f7b54580d15096057e3bc0e9260"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/canonical_prediction_inputs.json",
+      "prediction_artifact": "results/bda_v1_1_paper_init_2026-10-22/predictions/batch7_mu0.4/predictions.csv",
+      "sha256": "553af4b3b705a533df18d4a4ad110f4695b6abebfcfef3b79918a5dd971bd340"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/canonical_prediction_inputs.json",
+      "prediction_artifact": "results/bda_v1_1_paper_init_2026-10-22/predictions/batch7_mu0.5/predictions.csv",
+      "sha256": "dff14e9edf92fbe7aea05214080780698ee5712a2a45662483ad8037de4dd284"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/canonical_prediction_inputs.json",
+      "prediction_artifact": "results/bda_v1_1_paper_init_2026-10-22/predictions/batch7_mu0.6/predictions.csv",
+      "sha256": "06fc9bd58d0ebefa127a2b5d51029e525c1562909908c38a56df64dbfb73c252"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/canonical_prediction_inputs.json",
+      "prediction_artifact": "results/bda_v1_1_paper_init_2026-10-22/predictions/batch7_mu0.7/predictions.csv",
+      "sha256": "7973386d65c37ef7e6f6075e50392688a9ccd3127fc54e0893c7ad43bd9fbddb"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/canonical_prediction_inputs.json",
+      "prediction_artifact": "results/bda_v1_1_paper_init_2026-10-22/predictions/batch7_mu0.8/predictions.csv",
+      "sha256": "57bd27c71985eac861ece0d20da73cb311a73bc8d65b85047596104ca0177d26"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/canonical_prediction_inputs.json",
+      "prediction_artifact": "results/bda_v1_1_paper_init_2026-10-22/predictions/batch7_mu0.9/predictions.csv",
+      "sha256": "be74c5face6261a99b3b4bd39ce2a741e4fb6ebaae188e5997528babcad953ca"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/canonical_prediction_inputs.json",
+      "prediction_artifact": "results/bda_v1_1_paper_init_2026-10-22/predictions/batch7_mu1.0/predictions.csv",
+      "sha256": "743187c02317d18ab76df848bc6bc4e5489d27cc0bf7a7c9418644af90a81b88"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/canonical_prediction_inputs.json",
+      "prediction_artifact": "results/bda_v1_1_paper_init_2026-10-22/predictions/batch8_mu0.0/predictions.csv",
+      "sha256": "a6a24af10f517aef00595d1d2abe32858fcf01a83fee983c3683565f14e40ee4"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/canonical_prediction_inputs.json",
+      "prediction_artifact": "results/bda_v1_1_paper_init_2026-10-22/predictions/batch8_mu0.1/predictions.csv",
+      "sha256": "d556d7146da233fd7f86e43bb9a2d3aae99736b9a75e3c23f2cc77a41ab80dc3"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/canonical_prediction_inputs.json",
+      "prediction_artifact": "results/bda_v1_1_paper_init_2026-10-22/predictions/batch8_mu0.2/predictions.csv",
+      "sha256": "4a1fe7a88b3d20a2e747c5c7803aeef65b5fc3b373fee5b7a48ed112bf765e78"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/canonical_prediction_inputs.json",
+      "prediction_artifact": "results/bda_v1_1_paper_init_2026-10-22/predictions/batch8_mu0.3/predictions.csv",
+      "sha256": "ba8b853386bf9b29d095fbcdfe4972da514b36b4463eb7d70b0469c2ad92081a"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/canonical_prediction_inputs.json",
+      "prediction_artifact": "results/bda_v1_1_paper_init_2026-10-22/predictions/batch8_mu0.4/predictions.csv",
+      "sha256": "96ffe750f5600463a6083a745f01353466cc4f644c0733cc5f1db8286ed87b7a"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/canonical_prediction_inputs.json",
+      "prediction_artifact": "results/bda_v1_1_paper_init_2026-10-22/predictions/batch8_mu0.5/predictions.csv",
+      "sha256": "5caaeca7e51abcdcb31ed0bd3c3315d8cdf26de9d94985c0a2607f95dabf800d"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/canonical_prediction_inputs.json",
+      "prediction_artifact": "results/bda_v1_1_paper_init_2026-10-22/predictions/batch8_mu0.6/predictions.csv",
+      "sha256": "fc8c55f748672f8e0a6d03881cb4020091b9ef837eba7dfe9c9a1d8ed93f2103"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/canonical_prediction_inputs.json",
+      "prediction_artifact": "results/bda_v1_1_paper_init_2026-10-22/predictions/batch8_mu0.7/predictions.csv",
+      "sha256": "9e57242420d39d01c54ea32c9d2659d59658f4b98342e239edb93e5255607cc8"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/canonical_prediction_inputs.json",
+      "prediction_artifact": "results/bda_v1_1_paper_init_2026-10-22/predictions/batch8_mu0.8/predictions.csv",
+      "sha256": "9b37354e84a224dc5487f3361232e6aa86e4317434472185574f7b6f36cf12c6"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/canonical_prediction_inputs.json",
+      "prediction_artifact": "results/bda_v1_1_paper_init_2026-10-22/predictions/batch8_mu0.9/predictions.csv",
+      "sha256": "662010b92cae5a0bf4fc0e1cf3000c79ee373d708990a4d1117674d5bc92fca1"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/canonical_prediction_inputs.json",
+      "prediction_artifact": "results/bda_v1_1_paper_init_2026-10-22/predictions/batch8_mu1.0/predictions.csv",
+      "sha256": "0bcfa9c3e5425c662f717f49f8394e0d457f34f80d9748edbd0647d461e073f2"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/canonical_prediction_inputs.json",
+      "prediction_artifact": "results/bda_v1_1_paper_init_2026-10-22/predictions/batch9_mu0.0/predictions.csv",
+      "sha256": "52ee516f8ea87752ab95ef491d1bf560730576692ad8c9691b2abd1c324b83f1"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/canonical_prediction_inputs.json",
+      "prediction_artifact": "results/bda_v1_1_paper_init_2026-10-22/predictions/batch9_mu0.1/predictions.csv",
+      "sha256": "6cb91d6aa0293e50dd21ad8c5e1069da9b3bf08069b6b6e348bb64bfe7555fcb"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/canonical_prediction_inputs.json",
+      "prediction_artifact": "results/bda_v1_1_paper_init_2026-10-22/predictions/batch9_mu0.2/predictions.csv",
+      "sha256": "64d29d27ed9a1d8f17a0ee2d86a459687ad970534b7a44e3b3fad3611ddfe41b"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/canonical_prediction_inputs.json",
+      "prediction_artifact": "results/bda_v1_1_paper_init_2026-10-22/predictions/batch9_mu0.3/predictions.csv",
+      "sha256": "047f4e62a7e12c74cee71ba00a0da43b457a21f75c97efe85526a0ed4a9b7f68"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/canonical_prediction_inputs.json",
+      "prediction_artifact": "results/bda_v1_1_paper_init_2026-10-22/predictions/batch9_mu0.4/predictions.csv",
+      "sha256": "65d2a80b674bd1f0fe99e584e83956f21d00d51fcdc171fe6bca04fc91c4c9d3"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/canonical_prediction_inputs.json",
+      "prediction_artifact": "results/bda_v1_1_paper_init_2026-10-22/predictions/batch9_mu0.5/predictions.csv",
+      "sha256": "6575d2b133693776df11c2ac9f2604561f2cec183caf37a3c6b3636fa856e513"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/canonical_prediction_inputs.json",
+      "prediction_artifact": "results/bda_v1_1_paper_init_2026-10-22/predictions/batch9_mu0.6/predictions.csv",
+      "sha256": "57dc4c74082f02385da0c1569700cfe20d311c1a7af02948691918c25b494650"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/canonical_prediction_inputs.json",
+      "prediction_artifact": "results/bda_v1_1_paper_init_2026-10-22/predictions/batch9_mu0.7/predictions.csv",
+      "sha256": "6a7112f4d70c33f8812a9dc8169ff59d7f6d9c9d0fe8dc8bc3457eb9f0e45b99"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/canonical_prediction_inputs.json",
+      "prediction_artifact": "results/bda_v1_1_paper_init_2026-10-22/predictions/batch9_mu0.8/predictions.csv",
+      "sha256": "0f0fcd003cb61459ee49fa9907e31ac6068d1011195172fd65bbd3df6b859aef"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/canonical_prediction_inputs.json",
+      "prediction_artifact": "results/bda_v1_1_paper_init_2026-10-22/predictions/batch9_mu0.9/predictions.csv",
+      "sha256": "e34a3773c3b0303311aaaf4449ace7ce7193f1710ce815df69a09cd25b371956"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/canonical_prediction_inputs.json",
+      "prediction_artifact": "results/bda_v1_1_paper_init_2026-10-22/predictions/batch9_mu1.0/predictions.csv",
+      "sha256": "1512e9d86ed46745d6ba654647b73f51ee1156cf6f6a7f948cbcb4b889f2b0ef"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/canonical_prediction_inputs.json",
+      "prediction_artifact": "results/bda_v1_1_paper_init_2026-10-22/predictions/batch10_mu0.0/predictions.csv",
+      "sha256": "b94363af65855fc76909ef58e74f10c9401dddb650b1a70a7994a73335f80737"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/canonical_prediction_inputs.json",
+      "prediction_artifact": "results/bda_v1_1_paper_init_2026-10-22/predictions/batch10_mu0.1/predictions.csv",
+      "sha256": "771e1d221b74371982ff5e856e01de65dcac44d66b99f26990c738a20c2bcb4d"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/canonical_prediction_inputs.json",
+      "prediction_artifact": "results/bda_v1_1_paper_init_2026-10-22/predictions/batch10_mu0.2/predictions.csv",
+      "sha256": "2c11641ee8b2606c3c5e86ddce9e71e2c5e8e33cfd2dcb8495021a2c40e5cdb4"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/canonical_prediction_inputs.json",
+      "prediction_artifact": "results/bda_v1_1_paper_init_2026-10-22/predictions/batch10_mu0.3/predictions.csv",
+      "sha256": "1de3d01b62757d7cc9611e061ce2f2b5b64ad799f04c6d9a6bd7d8382a2a4781"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/canonical_prediction_inputs.json",
+      "prediction_artifact": "results/bda_v1_1_paper_init_2026-10-22/predictions/batch10_mu0.4/predictions.csv",
+      "sha256": "f43074729594ab0ecc3719d7ea06960dcc17d135af57407e42f3bc1893b85663"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/canonical_prediction_inputs.json",
+      "prediction_artifact": "results/bda_v1_1_paper_init_2026-10-22/predictions/batch10_mu0.5/predictions.csv",
+      "sha256": "1f1796b861b3736fc0c0e33bac59b73f9713d98bfff5d2d5d9eae1c264f1b6b5"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/canonical_prediction_inputs.json",
+      "prediction_artifact": "results/bda_v1_1_paper_init_2026-10-22/predictions/batch10_mu0.6/predictions.csv",
+      "sha256": "eea687795147905b75a6b179408f20a20919341bde741f2e0ff1aceaa261f747"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/canonical_prediction_inputs.json",
+      "prediction_artifact": "results/bda_v1_1_paper_init_2026-10-22/predictions/batch10_mu0.7/predictions.csv",
+      "sha256": "030846b27a39bd9c5d4d3b95ffcce4486bd00d7bf624218bbf2d1f9fdc530044"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/canonical_prediction_inputs.json",
+      "prediction_artifact": "results/bda_v1_1_paper_init_2026-10-22/predictions/batch10_mu0.8/predictions.csv",
+      "sha256": "143ffb3113b609a5c6f471e541c559358907230d734162d024d2e5f6ceb6a8dc"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/canonical_prediction_inputs.json",
+      "prediction_artifact": "results/bda_v1_1_paper_init_2026-10-22/predictions/batch10_mu0.9/predictions.csv",
+      "sha256": "37d33e1a1e0eab8d6a3a83b2f7a0669765c5b0c6ca0ffeb2a5a633c24f764e8f"
+    },
+    {
+      "source_artifact": "results/d010_multi_mu_ensemble_2026-10-23/canonical_prediction_inputs.json",
+      "prediction_artifact": "results/bda_v1_1_paper_init_2026-10-22/predictions/batch10_mu1.0/predictions.csv",
+      "sha256": "1c5d535fa826116608c8b0a0db8d96e3508fce27b729be96708d4e21714ba0f5"
+    }
+  ]
+}

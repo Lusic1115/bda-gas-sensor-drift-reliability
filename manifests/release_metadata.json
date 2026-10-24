@@ -1,0 +1,16 @@
+{
+  "prepared_version": "v1.0.0",
+  "status": "Software version 1.0.0",
+  "repository_created": true,
+  "git_tag_created": false,
+  "archive_doi_assigned": false,
+  "software_license": "MIT",
+  "software_scope": "Original source code and original documentation contained in this repository, unless otherwise noted.",
+  "copyright_holder": "Yexin Xie",
+  "copyright_year": 2026,
+  "raw_data_included": false,
+  "external_notebook_included": false,
+  "derived_700_table_included": false,
+  "third_party_terms": "Retained separately; see THIRD_PARTY_NOTICES.md and manifests/license_scope.csv",
+  "repository_url": "https://github.com/Lusic1115/bda-gas-sensor-drift-reliability"
+}

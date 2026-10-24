@@ -1,0 +1,51 @@
+{
+  "source": 1,
+  "targets": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "primary_targets": [
+    2,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "support_subset_targets": [
+    3,
+    4,
+    5
+  ],
+  "class_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "feature_count": 128,
+  "sample_count_by_batch": {
+    "1": 445,
+    "2": 1244,
+    "3": 1586,
+    "4": 161,
+    "5": 197,
+    "6": 2300,
+    "7": 3613,
+    "8": 294,
+    "9": 470,
+    "10": 3600
+  },
+  "batch_filename": "batch{batch}.dat",
+  "retain_all_samples": true,
+  "no_target_label_access_until_all_candidates_frozen": true
+}

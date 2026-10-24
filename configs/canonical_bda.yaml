@@ -1,0 +1,51 @@
+{
+  "representation": "primal",
+  "scaler": "source_only",
+  "pre_projection_l2": true,
+  "dim": 30,
+  "lambda": 1,
+  "iterations": 10,
+  "classifier": "Euclidean1NN",
+  "post_projection_l2": true,
+  "mu_grid": [
+    0.0,
+    0.1,
+    0.2,
+    0.3,
+    0.4,
+    0.5,
+    0.6,
+    0.7,
+    0.8,
+    0.9,
+    1.0
+  ],
+  "initialization": "source-trained Euclidean1NN in source-standardized sample-L2 representation before first eigendecomposition",
+  "random_state": null,
+  "early_stopping": false,
+  "return_iteration": 10,
+  "marginal_scale": "number_of_source_classes",
+  "mmd_normalization": "Frobenius before lambda I",
+  "solver": "scipy.linalg.eig(A,B);finite real eigenpairs ascending;returned Euclidean-unit right columns;no B-whitening",
+  "metric_classes": {
+    "uci": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "external": [
+      1,
+      2,
+      3
+    ]
+  },
+  "numeric_checks": {
+    "eigenvalue_imag_relative": 1e-08,
+    "eigenvector_imag_absolute": 1e-08,
+    "relative_frobenius_eigen_residual": 1e-06
+  },
+  "default_execution": "summaries_only"
+}

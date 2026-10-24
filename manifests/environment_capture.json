@@ -1,0 +1,14 @@
+{
+  "python": "3.10.18",
+  "packages": {
+    "numpy": "2.2.6",
+    "scipy": "1.15.3",
+    "pandas": "2.3.3",
+    "scikit-learn": "1.7.2",
+    "matplotlib": "3.10.9"
+  },
+  "platform": "Darwin",
+  "platform_release": "25.6.0",
+  "architecture": "x86_64",
+  "historical_external_inventory": "No separate complete runtime/OS inventory; do not infer historical external runtime solely from current versions."
+}

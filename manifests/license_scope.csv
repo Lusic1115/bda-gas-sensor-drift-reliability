@@ -1,0 +1,90 @@
+path,MIT_covered,third_party,note
+.gitignore,YES,NO,"Original project documentation/configuration only; factual names, citations and referenced materials retain their respective rights. No dataset/font/notebook ownership is asserted."
+CITATION.cff,NO,NO,"Scope/integrity/citation/license record, not a claim of ownership or a separate grant for referenced third-party content. See LICENSE_SCOPE.md."
+LICENSE,NO,NO,"Scope/integrity/citation/license record, not a claim of ownership or a separate grant for referenced third-party content. See LICENSE_SCOPE.md."
+LICENSE_SCOPE.md,YES,NO,"Original project documentation/configuration only; factual names, citations and referenced materials retain their respective rights. No dataset/font/notebook ownership is asserted."
+README.md,YES,NO,"Original project documentation/configuration only; factual names, citations and referenced materials retain their respective rights. No dataset/font/notebook ownership is asserted."
+THIRD_PARTY_NOTICES.md,NO,YES,Mixed provenance: factual dataset/algorithm citations or reproduced third-party font notices. Excluded as a whole from MIT; this flag is not a claim that every sentence belongs to a third party.
+configs/canonical_bda.yaml,YES,NO,"Original project documentation/configuration only; factual names, citations and referenced materials retain their respective rights. No dataset/font/notebook ownership is asserted."
+configs/external_protocol.yaml,YES,NO,"Original project documentation/configuration only; factual names, citations and referenced materials retain their respective rights. No dataset/font/notebook ownership is asserted."
+configs/uci_protocol.yaml,YES,NO,"Original project documentation/configuration only; factual names, citations and referenced materials retain their respective rights. No dataset/font/notebook ownership is asserted."
+data/README.md,NO,YES,Mixed provenance: factual dataset/algorithm citations or reproduced third-party font notices. Excluded as a whole from MIT; this flag is not a claim that every sentence belongs to a third party.
+data/external/README.md,NO,YES,Mixed provenance: factual dataset/algorithm citations or reproduced third-party font notices. Excluded as a whole from MIT; this flag is not a claim that every sentence belongs to a third party.
+data/external/domain_assignments.csv,NO,YES,Factual feature identifiers or project chronology based on external metadata; source attribution retained. No raw observations or derived feature values included.
+data/external/feature_schema.csv,NO,YES,Factual feature identifiers or project chronology based on external metadata; source attribution retained. No raw observations or derived feature values included.
+data/uci/README.md,NO,YES,Mixed provenance: factual dataset/algorithm citations or reproduced third-party font notices. Excluded as a whole from MIT; this flag is not a claim that every sentence belongs to a third party.
+docs/CLAIM_BOUNDARIES.md,YES,NO,"Original project documentation/configuration only; factual names, citations and referenced materials retain their respective rights. No dataset/font/notebook ownership is asserted."
+docs/DATA_ATTRIBUTION.md,NO,YES,Mixed provenance: factual dataset/algorithm citations or reproduced third-party font notices. Excluded as a whole from MIT; this flag is not a claim that every sentence belongs to a third party.
+docs/DATA_PROVENANCE.md,NO,YES,Mixed provenance: factual dataset/algorithm citations or reproduced third-party font notices. Excluded as a whole from MIT; this flag is not a claim that every sentence belongs to a third party.
+docs/ENVIRONMENT.md,YES,NO,"Original project documentation/configuration only; factual names, citations and referenced materials retain their respective rights. No dataset/font/notebook ownership is asserted."
+docs/EXTERNAL_RECONSTRUCTION.md,YES,NO,"Original project documentation/configuration only; factual names, citations and referenced materials retain their respective rights. No dataset/font/notebook ownership is asserted."
+docs/PROTOCOL.md,YES,NO,"Original project documentation/configuration only; factual names, citations and referenced materials retain their respective rights. No dataset/font/notebook ownership is asserted."
+docs/REPRODUCIBILITY.md,YES,NO,"Original project documentation/configuration only; factual names, citations and referenced materials retain their respective rights. No dataset/font/notebook ownership is asserted."
+environment.yml,YES,NO,"Original project documentation/configuration only; factual names, citations and referenced materials retain their respective rights. No dataset/font/notebook ownership is asserted."
+figures/captions.json,NO,NO,Project-generated analytical artwork/figure payload outside code MIT scope; source dataset attribution remains applicable.
+figures/figure1.pdf,NO,YES,"Project-generated analytical artwork outside code MIT scope, with embedded DejaVu font material under its original terms. No standalone font file."
+figures/figure1.png,NO,NO,Project-generated analytical artwork/figure payload outside code MIT scope; source dataset attribution remains applicable.
+figures/figure2.pdf,NO,YES,"Project-generated analytical artwork outside code MIT scope, with embedded DejaVu font material under its original terms. No standalone font file."
+figures/figure2.png,NO,NO,Project-generated analytical artwork/figure payload outside code MIT scope; source dataset attribution remains applicable.
+figures/figure3.pdf,NO,YES,"Project-generated analytical artwork outside code MIT scope, with embedded DejaVu font material under its original terms. No standalone font file."
+figures/figure3.png,NO,NO,Project-generated analytical artwork/figure payload outside code MIT scope; source dataset attribution remains applicable.
+figures/figure5.pdf,NO,YES,"Project-generated analytical artwork outside code MIT scope, with embedded DejaVu font material under its original terms. No standalone font file."
+figures/figure5.png,NO,NO,Project-generated analytical artwork/figure payload outside code MIT scope; source dataset attribution remains applicable.
+figures/figure6.pdf,NO,YES,"Project-generated analytical artwork outside code MIT scope, with embedded DejaVu font material under its original terms. No standalone font file."
+figures/figure6.png,NO,NO,Project-generated analytical artwork/figure payload outside code MIT scope; source dataset attribution remains applicable.
+figures/figureS1.pdf,NO,YES,"Project-generated analytical artwork outside code MIT scope, with embedded DejaVu font material under its original terms. No standalone font file."
+figures/figureS1.png,NO,NO,Project-generated analytical artwork/figure payload outside code MIT scope; source dataset attribution remains applicable.
+figures/figure_values.json,NO,NO,Project-generated analytical artwork/figure payload outside code MIT scope; source dataset attribution remains applicable.
+manifests/asset_sources.json,NO,NO,"Scope/integrity/citation/license record, not a claim of ownership or a separate grant for referenced third-party content. See LICENSE_SCOPE.md."
+manifests/environment_capture.json,NO,NO,"Scope/integrity/citation/license record, not a claim of ownership or a separate grant for referenced third-party content. See LICENSE_SCOPE.md."
+manifests/external_reconstruction_freeze.json,NO,NO,"Scope/integrity/citation/license record, not a claim of ownership or a separate grant for referenced third-party content. See LICENSE_SCOPE.md."
+manifests/frozen_result_map.csv,NO,NO,"Scope/integrity/citation/license record, not a claim of ownership or a separate grant for referenced third-party content. See LICENSE_SCOPE.md."
+manifests/license_scope.csv,NO,NO,"Scope/integrity/citation/license record, not a claim of ownership or a separate grant for referenced third-party content. See LICENSE_SCOPE.md."
+manifests/prediction_hashes.json,NO,NO,"Scope/integrity/citation/license record, not a claim of ownership or a separate grant for referenced third-party content. See LICENSE_SCOPE.md."
+manifests/privacy_secret_scan.md,NO,NO,"Scope/integrity/citation/license record, not a claim of ownership or a separate grant for referenced third-party content. See LICENSE_SCOPE.md."
+manifests/release_manifest.csv,NO,NO,"Scope/integrity/citation/license record, not a claim of ownership or a separate grant for referenced third-party content. See LICENSE_SCOPE.md."
+manifests/release_metadata.json,NO,NO,"Scope/integrity/citation/license record, not a claim of ownership or a separate grant for referenced third-party content. See LICENSE_SCOPE.md."
+manifests/source_file_decisions.csv,NO,NO,"Scope/integrity/citation/license record, not a claim of ownership or a separate grant for referenced third-party content. See LICENSE_SCOPE.md."
+manifests/uci_input_hashes.json,NO,NO,"Scope/integrity/citation/license record, not a claim of ownership or a separate grant for referenced third-party content. See LICENSE_SCOPE.md."
+requirements.txt,YES,NO,"Original project documentation/configuration only; factual names, citations and referenced materials retain their respective rights. No dataset/font/notebook ownership is asserted."
+results/canonical/batch_label_support.csv,NO,NO,"Project-generated frozen analytical output, outside source/documentation MIT grant. Not copied raw data; source dataset attribution remains applicable."
+results/canonical/fixed_mu_metrics.csv,NO,NO,"Project-generated frozen analytical output, outside source/documentation MIT grant. Not copied raw data; source dataset attribution remains applicable."
+results/canonical/metric_sensitivity.csv,NO,NO,"Project-generated frozen analytical output, outside source/documentation MIT grant. Not copied raw data; source dataset attribution remains applicable."
+results/canonical/source_only_metrics.csv,NO,NO,"Project-generated frozen analytical output, outside source/documentation MIT grant. Not copied raw data; source dataset attribution remains applicable."
+results/cross_dataset/collapse_state_detail.csv,NO,NO,"Project-generated frozen analytical output, outside source/documentation MIT grant. Not copied raw data; source dataset attribution remains applicable."
+results/cross_dataset/cross_dataset_collapse_summary.csv,NO,NO,"Project-generated frozen analytical output, outside source/documentation MIT grant. Not copied raw data; source dataset attribution remains applicable."
+results/cross_dataset/cross_dataset_mu_sensitivity.csv,NO,NO,"Project-generated frozen analytical output, outside source/documentation MIT grant. Not copied raw data; source dataset attribution remains applicable."
+results/cross_dataset/cross_dataset_selector_per_domain.csv,NO,NO,"Project-generated frozen analytical output, outside source/documentation MIT grant. Not copied raw data; source dataset attribution remains applicable."
+results/cross_dataset/cross_dataset_selector_summary.csv,NO,NO,"Project-generated frozen analytical output, outside source/documentation MIT grant. Not copied raw data; source dataset attribution remains applicable."
+results/cross_dataset/mu_sensitivity_summary.csv,NO,NO,"Project-generated frozen analytical output, outside source/documentation MIT grant. Not copied raw data; source dataset attribution remains applicable."
+results/external/ensemble_metrics.csv,NO,NO,"Project-generated frozen analytical output, outside source/documentation MIT grant. Not copied raw data; source dataset attribution remains applicable."
+results/external/fixed_mu_metrics.csv,NO,NO,"Project-generated frozen analytical output, outside source/documentation MIT grant. Not copied raw data; source dataset attribution remains applicable."
+results/external/mu_sensitivity.csv,NO,NO,"Project-generated frozen analytical output, outside source/documentation MIT grant. Not copied raw data; source dataset attribution remains applicable."
+results/external/selector_decisions_prefreeze.csv,NO,NO,"Project-generated frozen analytical output, outside source/documentation MIT grant. Not copied raw data; source dataset attribution remains applicable."
+results/external/selector_metrics.csv,NO,NO,"Project-generated frozen analytical output, outside source/documentation MIT grant. Not copied raw data; source dataset attribution remains applicable."
+results/external/source_only_metrics.csv,NO,NO,"Project-generated frozen analytical output, outside source/documentation MIT grant. Not copied raw data; source dataset attribution remains applicable."
+results/paper_tables/Table1.csv,NO,NO,"Project-generated frozen analytical output, outside source/documentation MIT grant. Not copied raw data; source dataset attribution remains applicable."
+results/paper_tables/Table2.csv,NO,NO,"Project-generated frozen analytical output, outside source/documentation MIT grant. Not copied raw data; source dataset attribution remains applicable."
+results/paper_tables/Table3.csv,NO,NO,"Project-generated frozen analytical output, outside source/documentation MIT grant. Not copied raw data; source dataset attribution remains applicable."
+results/paper_tables/Table4.csv,NO,NO,"Project-generated frozen analytical output, outside source/documentation MIT grant. Not copied raw data; source dataset attribution remains applicable."
+results/paper_tables/Table5.csv,NO,NO,"Project-generated frozen analytical output, outside source/documentation MIT grant. Not copied raw data; source dataset attribution remains applicable."
+scripts/evaluate_frozen.py,YES,NO,Original project source/fixture code or independent reimplementation; no third-party function body bundled. Runtime dependencies and user-supplied notebook are excluded.
+scripts/make_figures.py,YES,NO,Original project source/fixture code or independent reimplementation; no third-party function body bundled. Runtime dependencies and user-supplied notebook are excluded.
+scripts/make_tables.py,YES,NO,Original project source/fixture code or independent reimplementation; no third-party function body bundled. Runtime dependencies and user-supplied notebook are excluded.
+scripts/reconstruct_external_features.py,YES,NO,Original project source/fixture code or independent reimplementation; no third-party function body bundled. Runtime dependencies and user-supplied notebook are excluded.
+scripts/reproduce_paper.py,YES,NO,Original project source/fixture code or independent reimplementation; no third-party function body bundled. Runtime dependencies and user-supplied notebook are excluded.
+scripts/run_canonical.py,YES,NO,Original project source/fixture code or independent reimplementation; no third-party function body bundled. Runtime dependencies and user-supplied notebook are excluded.
+scripts/smoke_test.py,YES,NO,Original project source/fixture code or independent reimplementation; no third-party function body bundled. Runtime dependencies and user-supplied notebook are excluded.
+src/bda_core.py,YES,NO,Original project source/fixture code or independent reimplementation; no third-party function body bundled. Runtime dependencies and user-supplied notebook are excluded.
+src/bda_data.py,YES,NO,Original project source/fixture code or independent reimplementation; no third-party function body bundled. Runtime dependencies and user-supplied notebook are excluded.
+src/bda_evaluation.py,YES,NO,Original project source/fixture code or independent reimplementation; no third-party function body bundled. Runtime dependencies and user-supplied notebook are excluded.
+src/bda_paper_core.py,YES,NO,Original project source/fixture code or independent reimplementation; no third-party function body bundled. Runtime dependencies and user-supplied notebook are excluded.
+src/bda_preprocessing.py,YES,NO,Original project source/fixture code or independent reimplementation; no third-party function body bundled. Runtime dependencies and user-supplied notebook are excluded.
+src/external_reconstruction.py,YES,NO,Original project source/fixture code or independent reimplementation; no third-party function body bundled. Runtime dependencies and user-supplied notebook are excluded.
+src/release_pipeline.py,YES,NO,Original project source/fixture code or independent reimplementation; no third-party function body bundled. Runtime dependencies and user-supplied notebook are excluded.
+src/release_selectors.py,YES,NO,Original project source/fixture code or independent reimplementation; no third-party function body bundled. Runtime dependencies and user-supplied notebook are excluded.
+src/source_only_1nn.py,YES,NO,Original project source/fixture code or independent reimplementation; no third-party function body bundled. Runtime dependencies and user-supplied notebook are excluded.
+tests/test_canonical_release.py,YES,NO,Original project source/fixture code or independent reimplementation; no third-party function body bundled. Runtime dependencies and user-supplied notebook are excluded.
+tests/test_frozen_assets.py,YES,NO,Original project source/fixture code or independent reimplementation; no third-party function body bundled. Runtime dependencies and user-supplied notebook are excluded.
+tests/test_reconstruction_release.py,YES,NO,Original project source/fixture code or independent reimplementation; no third-party function body bundled. Runtime dependencies and user-supplied notebook are excluded.
+tests/test_release_contracts.py,YES,NO,Original project source/fixture code or independent reimplementation; no third-party function body bundled. Runtime dependencies and user-supplied notebook are excluded.

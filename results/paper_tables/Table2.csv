@@ -1,0 +1,13 @@
+cohort,method,mean_f1,mean_balanced_accuracy,deployable,baseline_comparability
+UCI_PRIMARY,SourceOnly-RBF-SVM,0.3326862050879688,0.4198503719575927,True,context baseline; source standardized RBF-SVM; fixed-six F1 equals target-present on primary-six
+UCI_PRIMARY,fixed_mu_0.0,0.6023168968895907,0.6663988374044602,True,UCI source baseline not initialization-matched; external method-matched
+UCI_PRIMARY,fixed_mu_0.5,0.5608410490846804,0.6090952385681244,True,UCI source baseline not initialization-matched; external method-matched
+UCI_PRIMARY,oracle-single-mu-retrospective,0.6673390046003863,0.7183211160577739,False,UCI source baseline not initialization-matched; external method-matched
+UCI_PRIMARY,mean-over-frozen-mu-retrospective,0.5674152583198105,0.6309427707927001,False,UCI source baseline not initialization-matched; external method-matched
+EXTERNAL_PRIMARY,fixed_mu_0.0,0.5660771861042858,0.566767211632279,True,UCI source baseline not initialization-matched; external method-matched
+EXTERNAL_PRIMARY,fixed_mu_0.5,0.5574170217172286,0.5580685847552415,True,UCI source baseline not initialization-matched; external method-matched
+EXTERNAL_PRIMARY,oracle-single-mu-retrospective,0.5936181024338654,0.5963048237785868,False,UCI source baseline not initialization-matched; external method-matched
+EXTERNAL_PRIMARY,mean-over-frozen-mu-retrospective,0.5568025264854228,0.5572417254576175,False,UCI source baseline not initialization-matched; external method-matched
+UCI_PRIMARY,SourceOnly-1NN-standardized-NOT-L2-initialization-matched,0.30160242158366674,0.3895994867975336,True,classifier is 1NN but representation mismatch: no sample L2; no adaptation-gain inference
+EXTERNAL_PRIMARY,SourceOnly-1NN,0.5213477589040212,0.5534637443183169,True,method-matched only SourceOnly-1NN; SVM context baseline
+EXTERNAL_PRIMARY,SourceOnly-RBF-SVM,0.5383893721656456,0.5541259132338593,True,method-matched only SourceOnly-1NN; SVM context baseline

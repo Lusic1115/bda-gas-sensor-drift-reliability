@@ -1,0 +1,30 @@
+{
+  "source_doi": "10.5281/zenodo.15681119",
+  "raw_archive_sha256": "6962b58ee95da3853982dabc444eb0a30ea907c1b97f817bc7369b62cd3ed247",
+  "notebook_sha256": "69f8f8e12abc6e3d4e1533c9ec40b8fd92079bbcee5b5aac6a058f60b98edb06",
+  "executed_cell_sha256": [
+    "1a5febfabc696bdcfbabb91274af0cb9c6e9e0accb745288f7ad4886a56fd70c",
+    "a3ed7be56cf808abfeeb446c681b35b303502acb517ed5d13704dc47bc16b099",
+    "84046887b24cc5fd5c71628a9f7317b1e24b8dca382a78d217717e2ad0cc11af"
+  ],
+  "executed_function_source_sha256": "001b0b30978ea9f6ee0f4aa52fdea46c90c82414dd1febbad4089d81fc68a2e9",
+  "expected_recordings": 700,
+  "expected_processed_columns": 254,
+  "gas_features": 248,
+  "frozen_derived_csv_sha256": "1eb02f065a25b01a54170707ece85f2faae6c6fa335ee144ea55cda20636e209",
+  "overlap": {
+    "overlap_rows": 624,
+    "feature_values_compared": 154752,
+    "exact_equal_count": 150857,
+    "max_abs_diff": 2.1827872842550278e-11,
+    "median_abs_diff": 0.0,
+    "atol": 1e-09,
+    "rtol": 0,
+    "allclose": true,
+    "matching": "independent all-248-vector match against all 624 rows; unique match required"
+  },
+  "schema_sha256": "2427e7e4f32c0e20872c223e8c4d1fdcb9405dad03401df8ab4d3ec983d3f8a8",
+  "domain_position_csv_sha256": "24dc907cf29251dc2982550a4d4bb490966405884b08fe94ca556506b3d993fd",
+  "derived_table_payload_included": false,
+  "status": "DERIVED_TABLE_REDISSEMINATION_PENDING_LICENSE_CHECK"
+}

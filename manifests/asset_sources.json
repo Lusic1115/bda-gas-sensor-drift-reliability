@@ -1,0 +1,229 @@
+{
+  "assets": [
+    {
+      "source_path": "results/d006_label_space_metric_audit_2026-10-23/canonical_metrics_recomputed.csv",
+      "public_path": "results/canonical/fixed_mu_metrics.csv",
+      "sha256": "bce3134bd353f4c09ea39729a824cdca7b88d0fa5ce9e03d959f8bc1c7126022",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "source_path": "results/d006_label_space_metric_audit_2026-10-23/source_only_metrics_recomputed.csv",
+      "public_path": "results/canonical/source_only_metrics.csv",
+      "sha256": "edc35f5a62e011b62f6066f11dee3f17d262223c054e68877000278288406c9c",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "source_path": "results/d006_label_space_metric_audit_2026-10-23/batch_label_support.csv",
+      "public_path": "results/canonical/batch_label_support.csv",
+      "sha256": "d97739b7f2f4a3ca0a05659577e6a161d2e610d4f23214aa0ce3ef398e8a6e7f",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "source_path": "results/d006_label_space_metric_audit_2026-10-23/fixed_grid_metric_sensitivity.csv",
+      "public_path": "results/canonical/metric_sensitivity.csv",
+      "sha256": "c13568ef74adae365102931b3573bf288a58596e0740cd96c0754df578784f35",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "source_path": "results/d015_external_canonical_validation_2026-10-23/fixed_mu_metrics.csv",
+      "public_path": "results/external/fixed_mu_metrics.csv",
+      "sha256": "5fed1cc33a85254cadc378604887403c74591b13c88b3c302f9e1335f224ab72",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "source_path": "results/d015_external_canonical_validation_2026-10-23/source_only_metrics.csv",
+      "public_path": "results/external/source_only_metrics.csv",
+      "sha256": "0fc6f432a86da41f55ec39ded6a2855dc1393208c1abe6861f8e127af3aa5cea",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "source_path": "results/d015_external_canonical_validation_2026-10-23/selector_metrics.csv",
+      "public_path": "results/external/selector_metrics.csv",
+      "sha256": "72dedb45ecda32a51544fed6d64274cc0fa83293af8619950526174e50947d6e",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "source_path": "results/d015_external_canonical_validation_2026-10-23/ensemble_metrics.csv",
+      "public_path": "results/external/ensemble_metrics.csv",
+      "sha256": "9bcc8e433fd78af731d338a4b929c8d6be012a6b73db5e40bac87dd68988739f",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "source_path": "results/d015_external_canonical_validation_2026-10-23/mu_sensitivity.csv",
+      "public_path": "results/external/mu_sensitivity.csv",
+      "sha256": "84d57e8755ba2b5f0d9432674f266cb6aa3282dbf4bcbebe69fa235294efb36d",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "source_path": "results/d015_external_canonical_validation_2026-10-23/selector_decisions_prefreeze.csv",
+      "public_path": "results/external/selector_decisions_prefreeze.csv",
+      "sha256": "6b9469862f30ee65bf76fcfa732326535c06289b99c3aa7d2f8eb8bbc2ff1211",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "source_path": "results/d016_cross_dataset_synthesis_2026-10-23/cross_dataset_selector_per_domain.csv",
+      "public_path": "results/cross_dataset/cross_dataset_selector_per_domain.csv",
+      "sha256": "91645b03783062f0ce15c3d02e939a0ea71a4a52c9029459972c2c446cdd7531",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "source_path": "results/d016_cross_dataset_synthesis_2026-10-23/cross_dataset_selector_summary.csv",
+      "public_path": "results/cross_dataset/cross_dataset_selector_summary.csv",
+      "sha256": "9281e6ffcdae6fd01bedfe5d8de05e1d69c92ca43911858d4416f91eb8960075",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "source_path": "results/d016_cross_dataset_synthesis_2026-10-23/collapse_state_detail.csv",
+      "public_path": "results/cross_dataset/collapse_state_detail.csv",
+      "sha256": "fee44f436f899ad5223fb9dd225f9d3865a191d129b0d13ab7eef78706165aea",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "source_path": "results/d016_cross_dataset_synthesis_2026-10-23/cross_dataset_collapse_summary.csv",
+      "public_path": "results/cross_dataset/cross_dataset_collapse_summary.csv",
+      "sha256": "c82beea96708d034d38b2be6569397c0c7f8324792d655557798aa4776e9dc54",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "source_path": "results/d016_cross_dataset_synthesis_2026-10-23/cross_dataset_mu_sensitivity.csv",
+      "public_path": "results/cross_dataset/cross_dataset_mu_sensitivity.csv",
+      "sha256": "0d2374eb0a67b2900e33c124ee31c2c0ac9c7d65c73542dec0823836458c8229",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "source_path": "results/d016_cross_dataset_synthesis_2026-10-23/mu_sensitivity_summary.csv",
+      "public_path": "results/cross_dataset/mu_sensitivity_summary.csv",
+      "sha256": "f56188ebd897f43d971639b034ce5a1b753176e61cd4738dbc3a0986a2464363",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "source_path": "paper/submission/tables/Table1.csv",
+      "public_path": "results/paper_tables/Table1.csv",
+      "sha256": "2f2e424c17f68610def0595b29215da16337e68a77b96e3938061b5df42f5c32",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "source_path": "paper/submission/tables/Table2.csv",
+      "public_path": "results/paper_tables/Table2.csv",
+      "sha256": "91de79da7ff817039c666f6013535b21165f5bdfcff917e775f8f23b059115c2",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "source_path": "paper/submission/tables/Table3.csv",
+      "public_path": "results/paper_tables/Table3.csv",
+      "sha256": "4be6026714a7669d22aa3453d07002a47c6bed558ca87eb0a28c772b7ca5df39",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "source_path": "paper/submission/tables/Table4.csv",
+      "public_path": "results/paper_tables/Table4.csv",
+      "sha256": "7490666d238599e97414c563d106d0e4e7f75ad63362c5e16ec21414c5480a55",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "source_path": "paper/submission/tables/Table5.csv",
+      "public_path": "results/paper_tables/Table5.csv",
+      "sha256": "2e3b5b675901e7c347f1ff92d05754e067edbb24a33a355829924b95b30bab6a",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "source_path": "paper/figures_v0.3/figure1.pdf",
+      "public_path": "figures/figure1.pdf",
+      "sha256": "946dbae2fe886eb9ebd18b0cdedbd75d2093b960ddb3247861a1c4c71a64fc5b",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "source_path": "paper/figures_v0.3/figure1.png",
+      "public_path": "figures/figure1.png",
+      "sha256": "c14e0c032b0bc05e4f8a93c0ccdb6efa6ef4a7c103c87ec61a301ce7cd94f72a",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "source_path": "paper/figures_v0.3/figure2.pdf",
+      "public_path": "figures/figure2.pdf",
+      "sha256": "ed1be166bbaf54616b49334c851575f12e88ae4b5c420c095be06cd4a4b4455d",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "source_path": "paper/figures_v0.3/figure2.png",
+      "public_path": "figures/figure2.png",
+      "sha256": "d56a072d6062649ed70085dab76af552afaefd418b0dd96365bd6fd4d8d986f9",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "source_path": "paper/figures_v0.3/figure3.pdf",
+      "public_path": "figures/figure3.pdf",
+      "sha256": "190439a6456598382f35d038d45f7f0e91580f7f68e22a36c4d6a9d6ce2001bb",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "source_path": "paper/figures_v0.3/figure3.png",
+      "public_path": "figures/figure3.png",
+      "sha256": "a9ce79874fa289894b5cd34bdafdfeae25df1966c183e933dfc6c33f87399717",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "source_path": "paper/figures_v0.3/figure5.pdf",
+      "public_path": "figures/figure5.pdf",
+      "sha256": "572103098d671661f4a68a5b3f08a5e84877a1acdcf3a681fd5455150f4ab741",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "source_path": "paper/figures_v0.3/figure5.png",
+      "public_path": "figures/figure5.png",
+      "sha256": "40a98c56ea0d2d34252945e4b7aa109aa98cb7fa6462359449bf5f6a1be5ce5a",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "source_path": "paper/figures_v0.3/figure6.pdf",
+      "public_path": "figures/figure6.pdf",
+      "sha256": "837466b977e2c0e838cc9665fa30d70e04d46503f9c83cc2c11f8c52bfad4180",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "source_path": "paper/figures_v0.3/figure6.png",
+      "public_path": "figures/figure6.png",
+      "sha256": "f972f1e36b0bf01e7e951e59492572f8005510c6e009aee0923c6d07307281cc",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "source_path": "paper/figures_v0.3/figureS1.pdf",
+      "public_path": "figures/figureS1.pdf",
+      "sha256": "0c746b944ca56a9997351ba9f9005886c3cec0efc59dc11107907b8f0f056b0a",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "source_path": "paper/figures_v0.3/figureS1.png",
+      "public_path": "figures/figureS1.png",
+      "sha256": "07edd44766b6e839ce64b032f27fe75ada43ba940afd95aaa590caab1ea6ece5",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "source_path": "paper/figures_v0.3/captions.json",
+      "public_path": "figures/captions.json",
+      "sha256": "103c63ea81ed99a25ba7ca6ce7b8dca842ef2d234f1869948e8b22c6624a2b43",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "source_path": "paper/figures_v0.3/figure_values.json",
+      "public_path": "figures/figure_values.json",
+      "sha256": "9224b0c2904f1d47c876bec1373b93f4397b3358af279be4fbcb077844ed2e9c",
+      "transformation": "source path keys remapped only; complete figures records unchanged"
+    }
+  ],
+  "script_sources": [
+    {
+      "source_path": "paper/v0.3_audit/render_figures.py",
+      "public_path": "scripts/make_figures.py",
+      "transformation": "portable CLI; frozen CSV validation and identical preexisting plotted records; manuscript rewriting removed"
+    },
+    {
+      "source_path": "new release wrapper",
+      "public_path": "scripts/make_tables.py"
+    },
+    {
+      "source_path": "new release wrapper",
+      "public_path": "scripts/reproduce_paper.py"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "benchmark_identifier": "ENose2025-Reconstructed700-v1",
+  "identifier_status": "internal derived benchmark identifier, not official release",
+  "source_n": 90,
+  "targets": [
+    "T1",
+    "T2",
+    "T3",
+    "T4",
+    "T5",
+    "T6",
+    "T7"
+  ],
+  "target_ns": [
+    90,
+    89,
+    90,
+    90,
+    90,
+    90,
+    71
+  ],
+  "source_retained_days": [
+    1,
+    5
+  ],
+  "target_retained_days": [
+    [
+      6,
+      10
+    ],
+    [
+      11,
+      15
+    ],
+    [
+      16,
+      20
+    ],
+    [
+      21,
+      25
+    ],
+    [
+      26,
+      30
+    ],
+    [
+      31,
+      35
+    ],
+    [
+      36,
+      39
+    ]
+  ],
+  "class_labels": [
+    1,
+    2,
+    3
+  ],
+  "class_mapping": {
+    "EtOH": 1,
+    "Diacetyl 0.1ppm": 2,
+    "Diacetyl 1ppm": 2,
+    "Phenylethanol 200ppm": 3,
+    "Phenylethanol 1000ppm": 3
+  },
+  "analyte_names": {
+    "1": "Ethanol",
+    "2": "Diacetyl",
+    "3": "2-Phenylethanol"
+  },
+  "feature_count": 248,
+  "feature_schema": "data/external/feature_schema.csv",
+  "domain_assignments": "data/external/domain_assignments.csv",
+  "included_feature_families": [
+    "mean",
+    "rel_diff",
+    "recovery_level",
+    "sample_startslope"
+  ],
+  "excluded_from_X": [
+    "temperature",
+    "humidity",
+    "Class",
+    "Date",
+    "concentration",
+    "other metadata"
+  ],
+  "concentration_role": "metadata/covariate only;never model feature or prediction target",
+  "csv_separator": " ",
+  "frozen_csv_sha256": "1eb02f065a25b01a54170707ece85f2faae6c6fa335ee144ea55cda20636e209",
+  "reconstruction_provenance": "manifests/external_reconstruction_freeze.json",
+  "no_target_label_access_until_all_candidates_frozen": true
+}

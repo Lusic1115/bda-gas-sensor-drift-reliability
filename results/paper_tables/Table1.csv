@@ -1,0 +1,4 @@
+cohort,dataset,features,classes,source,targets,support_type,source_n,target_ns,protocol_source
+UCI_PRIMARY,UCI Gas Sensor Array Drift Dataset,128,6 source; 6 target-present,Batch1,"[2, 6, 7, 8, 9, 10]",same-label-support,445,"{""2"": 1244, ""6"": 2300, ""7"": 3613, ""8"": 294, ""9"": 470, ""10"": 3600}",D006 batch_label_support.csv; canonical preprocessing/run manifest
+UCI_SECONDARY_SUPPORT_SUBSET,UCI Gas Sensor Array Drift Dataset,128,6 source; 5 target-present,Batch1,"[3, 4, 5]",target-support-subset; absent true class6,445,"{""3"": 1586, ""4"": 161, ""5"": 197}",D006 batch_label_support.csv; canonical preprocessing/run manifest
+EXTERNAL_PRIMARY,ENose2025-Reconstructed700-v1,248,3 source; 3 target-present,retained days1-5,T1-T7,same-label-support,90,"90,89,90,90,90,90,71","D014 frozen protocol; D015 source-fit audit and fixed metrics; 700 total,610 targets"

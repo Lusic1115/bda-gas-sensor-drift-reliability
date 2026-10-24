@@ -1,0 +1,13 @@
+cohort,state_window,run_count,observed_state_count,present_missing_run_count,any_missing_run_count,present_missing_state_count,definition
+UCI_PRIMARY,outputs_1_10,66,660,33,33,156,intersection missing pseudo classes with retrospectively frozen true-present support; target labels never reopened
+UCI_PRIMARY,bootstrap_0,66,66,55,55,55,intersection missing pseudo classes with retrospectively frozen true-present support; target labels never reopened
+UCI_PRIMARY,bootstrap_and_outputs_0_10,66,726,55,55,211,intersection missing pseudo classes with retrospectively frozen true-present support; target labels never reopened
+UCI_SECONDARY_SUPPORT_SUBSET,outputs_1_10,33,330,20,23,173,intersection missing pseudo classes with retrospectively frozen true-present support; target labels never reopened
+UCI_SECONDARY_SUPPORT_SUBSET,bootstrap_0,33,33,22,22,22,intersection missing pseudo classes with retrospectively frozen true-present support; target labels never reopened
+UCI_SECONDARY_SUPPORT_SUBSET,bootstrap_and_outputs_0_10,33,363,23,23,195,intersection missing pseudo classes with retrospectively frozen true-present support; target labels never reopened
+UCI_ALL9_SUPPLEMENTARY,outputs_1_10,99,990,53,56,329,intersection missing pseudo classes with retrospectively frozen true-present support; target labels never reopened
+UCI_ALL9_SUPPLEMENTARY,bootstrap_0,99,99,77,77,77,intersection missing pseudo classes with retrospectively frozen true-present support; target labels never reopened
+UCI_ALL9_SUPPLEMENTARY,bootstrap_and_outputs_0_10,99,1089,78,78,406,intersection missing pseudo classes with retrospectively frozen true-present support; target labels never reopened
+EXTERNAL_PRIMARY,outputs_1_10,77,770,0,0,0,intersection missing pseudo classes with retrospectively frozen true-present support; target labels never reopened
+EXTERNAL_PRIMARY,bootstrap_0,77,77,0,0,0,intersection missing pseudo classes with retrospectively frozen true-present support; target labels never reopened
+EXTERNAL_PRIMARY,bootstrap_and_outputs_0_10,77,847,0,0,0,intersection missing pseudo classes with retrospectively frozen true-present support; target labels never reopened

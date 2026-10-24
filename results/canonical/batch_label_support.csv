@@ -1,0 +1,11 @@
+batch,sample_count,class_1_count,class_2_count,class_3_count,class_4_count,class_5_count,class_6_count,present_classes,absent_classes,number_of_present_classes,support_relation
+1,445,90,98,83,30,70,74,"[1, 2, 3, 4, 5, 6]",[],6,SOURCE_REFERENCE
+2,1244,164,334,100,109,532,5,"[1, 2, 3, 4, 5, 6]",[],6,SAME_LABEL_SUPPORT
+3,1586,365,490,216,240,275,0,"[1, 2, 3, 4, 5]",[6],5,TARGET_SUPPORT_SUBSET
+4,161,64,43,12,30,12,0,"[1, 2, 3, 4, 5]",[6],5,TARGET_SUPPORT_SUBSET
+5,197,28,40,20,46,63,0,"[1, 2, 3, 4, 5]",[6],5,TARGET_SUPPORT_SUBSET
+6,2300,514,574,110,29,606,467,"[1, 2, 3, 4, 5, 6]",[],6,SAME_LABEL_SUPPORT
+7,3613,649,662,360,744,630,568,"[1, 2, 3, 4, 5, 6]",[],6,SAME_LABEL_SUPPORT
+8,294,30,30,40,33,143,18,"[1, 2, 3, 4, 5, 6]",[],6,SAME_LABEL_SUPPORT
+9,470,61,55,100,75,78,101,"[1, 2, 3, 4, 5, 6]",[],6,SAME_LABEL_SUPPORT
+10,3600,600,600,600,600,600,600,"[1, 2, 3, 4, 5, 6]",[],6,SAME_LABEL_SUPPORT
